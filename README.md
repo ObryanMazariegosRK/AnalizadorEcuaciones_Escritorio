@@ -27,9 +27,9 @@ Este proyecto fue creado con **NetBeans** y **Ant**.
 
 ---
 **Autores:** 
-  1990-23-22934	Freyder José Sequén Urlao
-  1990-23-4406	Christopher Obryan Mazariegos Crúz
-  1990-23-17188	Luis Miguel Vaquiax Camey
-  1990-23-10442	Keyner Alejandro Rivera Axpuac
+ * 1990-23-22934	Freyder José Sequén Urlao
+ * 1990-23-4406	Christopher Obryan Mazariegos Crúz
+ * 1990-23-17188	Luis Miguel Vaquiax Camey
+ * 1990-23-10442	Keyner Alejandro Rivera Axpuac
 
 **Curso:** [Compiladores]
